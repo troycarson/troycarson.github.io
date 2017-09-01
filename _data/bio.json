@@ -1,57 +1,47 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Troy Carson",
     "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2018.",
+    "picture": "https://troycarson.github.io/headshotofme.jpg",
+    "email": "tcarson@hawaii.edu",
+    "phone": "",
+    "website": "https://troycarson.github.io",
+    "summary": "I am a third-year UHM student pursuing a degree in computer science as well as another degree in classics. I am interested in computer science for a future profession, likely in cyber security. And my pursuit of classics studies is to indulge my passion of Ancient Rome, sadly though, that does not pay. ",
     "location": {
       "address": "",
-      "postalCode": "96822",
-      "city": "Honolulu",
+      "postalCode": "96789",
+      "city": "Mililani",
       "countryCode": "USA",
       "region": "Hawaii"
     },
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "troycarson",
+        "url": "http://github.com/troycarson"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
-      },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "username": "tcarson",
+        "url": "https://www.linkedin.com/in/troy-carson-8b3760146/"
       }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "cyber security",
       "keywords": [
         "Arduino",
         "TI MSP430"
       ]
     },
     {
-      "name": "data mining",
+      "name": "Ancient Rome",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "cryptography",
       "keywords": [
       ]
     }
@@ -65,8 +55,7 @@
         "C++",
         "Java",
         "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "Python"
       ]
     },
     {
@@ -76,17 +65,16 @@
         "MacOS",
         "Ubuntu",
         "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "Windows"
       ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "area": "Information & Computer Science and Classics (expected Spring, 2019)",
+      "studyType": "B.A.",
+      "startDate": "Fall 2015",
       "endDate": "Present",
       "gpa": "",
       "courses": [
@@ -95,69 +83,48 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
+      "company": "UH Manoa Career Center",
+      "position": "Computer Specialist",
+      "website": "https://troycarsonblog.wordpress.com/",
+      "startDate": "Summer 2017",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
-      "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
-      ]
-    },
-    {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
       "summary": "",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        ""
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
+      "organization": "Youth Philanthropy Board of Hawaii",
+      "website": "https://www.facebook.com/YPBHawaii/",
+      "position": "Member",
+      "startDate": "Summer 2012",
       "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "summary": "Funding service learning projects across the state",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
-    },
-    {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        ""
       ]
     }
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "title": "Cadet of The Year",
+      "date": "2015",
+      "awarder": "Punahou School's JROTC Battallion",
+      "summary": ""
     },
     {
-      "title": "First place",
+      "title": "Military Officer's Association of America",
+      "date": "2014",
+      "awarder": "Military Officer's Association of America Aloha Chapter",
+      "summary": ""
+    },
+    {
+      "title": "Senior Army Instructor Leadership Award",
       "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "awarder": "Punahou School's JROTC Battallion's senior army instructor, Robert Takao",
+      "summary": ""
     }
   ],
   "references": [
