@@ -16,14 +16,14 @@
     },
     "profiles": [
       {
-        "network": "github",
-        "username": "troycarson",
-        "url": "http://github.com/troycarson"
-      },
-      {
         "network": "wordpress blog",
         "username": "",
         "url": "https://troycarsonblog.wordpress.com/"
+      },
+      {
+        "network": "github",
+        "username": "troycarson",
+        "url": "http://github.com/troycarson"
       },
       {
         "network": "linkedin",
