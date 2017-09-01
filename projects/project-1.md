@@ -12,7 +12,7 @@ labels:
 summary: I was asked to create a poster that could be used to promote the Youth Philanthropy Board of Hawaii and its capacity to fund service-based projects across the state.
 ---
 
-<img class="ui image" src="{{ site.baseurl }}/imagesimages/YPB_POSTER_v1.1 (1).jpg">
+<img class="ui image" src="{{ site.baseurl }}/images/YPB_POSTER_v1.1 (1).jpg">
 
 As I have been a member of the Youth Philanthropy Board for several yeras now, the board is well aware of my technical interests and capabilities. With the desire for an official poster to be created and disseminated to better promote the organization and supply funding to more service-learning projects, I was asked to create a poster that could be used as a generic template that could be modified as needed to display contact or other information that is variable to change from year-to-year. 
 
