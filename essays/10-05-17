@@ -1,0 +1,31 @@
+---
+layout: essay
+type: essay
+title: Simplifying Intutive Design
+date: 2017-10-05
+labels:
+  - Software Engineering
+  - Learning
+  - Semantic UI
+---
+
+<img class="ui tiny left circular floated image" src="https://react.semantic-ui.com/logo.png">
+
+"Semantic is a development framework that helps create beautiful, responsive layouts using human-friendly HTML." 
+    - https://semantic-ui.com/
+    
+I have only had a week's worth of work with Semantic UI, but I cannot imagine programming for the web without it. Having a UI 
+Framework enables one to make sleek and professional-looking websites in a matter of hours. Whereas without Semantic UI, it will 
+take me hours to produce a bland website that looks like it was developed in the early-2000s at best. 
+
+Semantic makes it easy to create simple-to-complex websites with, as they advertsie, "human-friendly HTML". Making a class with the
+name "ui borderless menu" or "ui three column grid container" is easily understood by the developer writing the code as well as 
+someone reading over the HTML—it's English.
+
+Semantic UI has a plethora of features that make it easy to design every component of a webpage—from the header to the footer. 
+Semantic makes it easy to manipulate elements of any kind with easy-to-use functions that all for quick and dramatic personalization.
+As far as I have seen, if I can imagine it, Semantic UI can do it. 
+
+I have no real frame-of-reference. Semantic might be a terrible UI framework. However, as far as I can tell, Semantic is a leading 
+option of web developers alongside the likes of bootstrap and ionic. Regardless of how they stack up, using a UI framework of this 
+calibre makes front-end web design amazingly convenient and is practically essential for any serious project
