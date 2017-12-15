@@ -17,7 +17,7 @@
     "profiles": [
       {
         "network": "wordpress blog",
-        "username": "",
+        "username": "troycarsonblog",
         "url": "https://troycarsonblog.wordpress.com/"
       },
       {
