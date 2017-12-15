@@ -59,6 +59,8 @@
         "C++",
         "Java",
         "Javascript",
+        "HTML",
+        "CSS",
         "Python"
       ]
     },
@@ -80,9 +82,7 @@
       "studyType": "B.A.",
       "startDate": "Fall 2015",
       "endDate": "Present",
-      "gpa": "",
-      "courses": [
-      ]
+      "gpa": ""
     }
   ],
   "work": [
@@ -92,10 +92,7 @@
       "website": "https://troycarsonblog.wordpress.com/",
       "startDate": "Summer 2017",
       "endDate": "Present",
-      "summary": "",
-      "highlights": [
-        ""
-      ]
+      "summary": ""
     }
   ],
   "volunteer": [
