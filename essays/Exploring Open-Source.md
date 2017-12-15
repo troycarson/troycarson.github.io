@@ -12,7 +12,7 @@ labels:
 
 My supervisor at work encouraged me to look into finding several open-source projects that I have an interest in. After some time browsing the featured Google open-source projects, I settled on Oppia, Tesseract OCR, Airport Puzzle Solver, Flutter, and Easy Public Key Infrastructure. To browse the plethora of open-source projects that Google is currently showcasing, please follow the below link:
 
-https://opensource.google.com/projects/explore/featured
+<a href="https://opensource.google.com/projects/explore/featured">Google Projects</a>
 
 Oppia:
 
